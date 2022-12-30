@@ -1,3 +1,5 @@
+// The dataset composed of arrays with two fields, Date and Profit/Losses.
+
 var finances = [
     ['Jan-2010', 867884],
     ['Feb-2010', 984655],
@@ -89,6 +91,8 @@ var finances = [
     
     
     //All Variable
+
+    
     var totalMonths = 0;
     var totalValue = 0;
     var earningsArray = finances.map((el) => el[1]);
@@ -100,6 +104,8 @@ var finances = [
     var currentValue = 0;
     var higherValue = 0;
     var totalChange = 0;
+
+
     // Your task is to write JavaScript code that analyzes the records to calculate each of the following:
     
     // The total number of months included in the dataset.
