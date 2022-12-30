@@ -50,4 +50,4 @@ Please refer to the licence in the repo.
 
 ## Author
 
-* Hamza Osman - Intial work [realstranger](https://github.com/Realstranger01/Console-Finances.git)
+* Hamza Osman - Intial work [Realstranger](https://github.com/Realstranger01/Console-Finances.git)
