@@ -6,11 +6,11 @@ In Javascript there is a beautiful elegant, highly expressive language that is b
 
 Open up the [project link](https://realstranger01.github.io/Console-Finances/) and you should be able to see the webpage shown below:
 
-![Console-Finance](/Assets/Images/screenshot.png "Console-Finance")
+![Console-Finance](/Images/screenshot.png "Console-Finance")
 
 ### Prerequisites
 
-You need to have a modern browser able to handle html5 and css.
+You need to have a modern browser able to handle html5 and Javascript.
 
 Some popular browsers are:
 ```
